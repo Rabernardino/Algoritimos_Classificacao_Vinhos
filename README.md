@@ -32,7 +32,6 @@ Uma vez visualizado as estatísticas e comportamentos com o apoio de gráficos a
 </p>
 
 # Detalhamento do Dataset
-<font color ='gray' style = 'font-size: 18px;'>Dados</font>
 <ul style='font-size: 16px; line-height: 2; text-align: justify;'>
   <li><b>Acidez Fixa</li>
   <li><b>Acidez Volatil</li>
