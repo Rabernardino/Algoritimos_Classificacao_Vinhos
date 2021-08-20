@@ -3,7 +3,8 @@
 <p align="center">
   <a href="#Introdução">Introdução</a> |
   <a href="#Bibliotecas Utilizadas">Bibliotecas Utilizadas</a> |
-  <a href="#Detalhamento do Dataset">Descrição do Projeto</a> |
+  <a href="Descrição do Projeto">Descrição do Projeto<a> |
+  <a href="#Detalhamento do Dataset">Detalhamento do Dataset</a> |
   
 # Introdução
 <font color ='gray' style = 'font-size: 18px;'></font>
@@ -30,7 +31,7 @@ A qualidade definida para cada um dos vinhos varia das notas 3 à 8, sendo assim
 Uma vez visualizado as estatísticas e comportamentos com o apoio de gráficos a etapa subsequente é a modelagem para o aprendizado de máquina. Nesta última etapa são selecionados diferentes algoritmos para a realização do treinamento e predição dos dados, afim de comparar os resultados obtidos e definir o modelo que demonstra a maior acurácia para a previsão dos dados. 
 </p>
 
-# Detalhamento dos Dados
+# Detalhamento do Dataset
 <font color ='gray' style = 'font-size: 18px;'>Dados</font>
 <ul style='font-size: 16px; line-height: 2; text-align: justify;'>
   <li><b>Acidez Fixa</li>
